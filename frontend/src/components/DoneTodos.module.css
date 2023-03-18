@@ -1,0 +1,41 @@
+.wrapper {
+  display: grid;
+  max-width: 60rem;
+  margin: 1rem auto;
+  justify-content: right;
+  margin-top: -170px;
+}
+
+.post {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background-color: #c1c5f6;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  list-style: none;
+  color: #03088d;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #03088d;
+  margin: 0;
+  align-items: center;
+}
+
+h2 {
+  text-align: center;
+  color: #03088d;
+  text-decoration: underline;
+}
+
+.icons {
+  color: #03088d;
+  font-size: 10px;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 2px;
+}
